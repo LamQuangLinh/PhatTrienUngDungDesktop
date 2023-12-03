@@ -1,0 +1,6 @@
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\2112998_LamQuangLinh_Lab4.csproj.AssemblyReference.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\2112998_LamQuangLinh_Lab4.csproj.SuggestedBindingRedirects.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\_2112998_LamQuangLinh_Lab4.frmQuanLy.resources
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\_2112998_LamQuangLinh_Lab4.Properties.Resources.resources
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\2112998_LamQuangLinh_Lab4.csproj.GenerateResource.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\2112998_LamQuangLinh_Lab4\obj\Debug\2112998_LamQuangLinh_Lab4.csproj.CoreCompileInputs.cache
